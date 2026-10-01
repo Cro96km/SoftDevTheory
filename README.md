@@ -6,7 +6,7 @@ Repo - https://github.com/higolab/SoftDevTheory/
 
 1. Vanilla
 2. Chocolate
-3. Strawberry
+3. Stracchiatella - let's goo
 4. Cookies and Cream
 5. Matcha
 6. Caramel
